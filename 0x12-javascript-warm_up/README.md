@@ -1,1 +1,3 @@
-0x12-javascript-warm_up
+INTRODUCTION TO JAVASCRIPT
+
+TASK 0: prints "javascript is amzing"
